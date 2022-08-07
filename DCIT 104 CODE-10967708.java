@@ -1,5 +1,5 @@
 *
-* 1
+* 
 *
 *
 *
@@ -23,8 +23,8 @@ public class numbers{
         scanner sc = new scanner(system.in);
         
         system.out.println("Enter start and end range");
-        int num1 = sc.nextint.();//10
-        int nmu2 = sc.nextint;();//100
+        int num1 = sc.nextint.();//1
+        int nmu2 = sc.nextint;();//10000
 
         int sum = 0, count = 0;
         double avg = 0.0;
